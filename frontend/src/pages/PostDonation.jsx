@@ -450,12 +450,6 @@ const PostDonation = () => {
                 </div>
               </div>
             </div>
-
-            {/* Explanatory footer */}
-            <div className="mt-8 border-t border-app-main pt-4 text-[10px] text-app-muted leading-relaxed">
-              <strong>Interview Highlight:</strong> The backend implements a deterministic decision-tree parsing hook that saves this prediction data directly to MongoDB. The frontend renders dynamic safety meters based on the remaining hours from the MongoDB model.
-            </div>
-
           </div>
         </div>
 
