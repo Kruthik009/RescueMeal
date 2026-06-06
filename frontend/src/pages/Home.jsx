@@ -108,30 +108,6 @@ const Home = () => {
         </div>
       </section>
 
-      {/* Safety & Integrity Stats */}
-      <section className="py-16 bg-app-main transition-colors duration-300">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="bg-app-card border border-app-main rounded-3xl p-8 md:p-12 grid grid-cols-1 md:grid-cols-4 gap-8 text-center shadow-lg">
-            <div>
-              <div className="text-3xl md:text-5xl font-black text-emerald-600 dark:text-emerald-400 mb-2">15,000+</div>
-              <div className="text-app-muted text-sm font-semibold uppercase tracking-wider">Meals Rescued</div>
-            </div>
-            <div>
-              <div className="text-3xl md:text-5xl font-black text-emerald-600 dark:text-emerald-400 mb-2">120+</div>
-              <div className="text-app-muted text-sm font-semibold uppercase tracking-wider">Partner NGOs</div>
-            </div>
-            <div>
-              <div className="text-3xl md:text-5xl font-black text-emerald-600 dark:text-emerald-400 mb-2">4,500+</div>
-              <div className="text-app-muted text-sm font-semibold uppercase tracking-wider">Active Donors</div>
-            </div>
-            <div>
-              <div className="text-3xl md:text-5xl font-black text-emerald-600 dark:text-emerald-400 mb-2">100%</div>
-              <div className="text-app-muted text-sm font-semibold uppercase tracking-wider">Safe Protocols</div>
-            </div>
-          </div>
-        </div>
-      </section>
-
       {/* Footer */}
       <footer className="border-t border-app-main bg-app-card py-8 text-center text-xs text-app-muted transition-colors duration-300">
         <div className="max-w-7xl mx-auto px-4">
