@@ -2,6 +2,8 @@
 
 RescueMeal is a food donation platform built using the MERN stack that connects food donors (restaurants, supermarkets, individuals) with NGOs and people in need.
 
+### 🔗 Live Demo: [https://rescuemeal-frontend.vercel.app](https://rescuemeal-frontend.vercel.app)
+
 ---
 
 ## 🛠️ Tech Stack
